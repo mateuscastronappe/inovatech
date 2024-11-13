@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FFF&size=35&center=true&vCenter=true&width=1000&lines=+Projeto+Ocean20+(G20)+2024+)](https://git.io/typing-svg)
-
 
 ### Site para Conscientização SOBRE ENERGIA
 
