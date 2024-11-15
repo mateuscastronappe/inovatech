@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    @apply no-underline list-none;
+}
+
+body {
+    @apply font-bold;
+}
+
+@layer components {
+    .cabecalho {
+        @apply h-20 text-black inline-flex items-center mx-auto pl-[20%] h-36 w-full max-w-screen-xl;
+    }
+    .cabecalho h1{
+        @apply mr-10 text-3xl text-green-500;
+    }
+    .cabecalho li {
+        @apply inline m-5 ;
+    }
+
+    .cabecalho li a:hover {
+        @apply text-green-500; 
+    }
+    
+    .cabecalho nav ul li {
+        font-size: 1.20rem; 
+    }
+}
