@@ -5,11 +5,11 @@ export default function Menu() {
         <nav>
             <ul>
                 <li><Link href="/">Home</Link></li>
-                <li><Link href=""></Link></li>
-                <li><Link href=""></Link></li>
-                <li><Link href=""></Link></li>
-                <li><Link href=""></Link></li>
-                <li><Link href=""></Link></li>
+                <li><Link href="">Tecnologias</Link></li>
+                <li><Link href="">Armazenamento</Link></li>
+                <li><Link href="">Integração</Link></li>
+                <li><Link href="">API</Link></li>
+                <li><Link href="">Integrantes</Link></li>
             </ul>
         </nav>
     )
