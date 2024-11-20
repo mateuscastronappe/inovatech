@@ -8,7 +8,7 @@
 
 ## Links: Vercel,Java e Video
 - Vercel: https://inovatech-snowy.vercel.app/
-- Java: 
+- Java: https://github.com/anacarolcg0/gs2
 - Video: 
 
 
