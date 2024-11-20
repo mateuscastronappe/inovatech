@@ -9,14 +9,14 @@ export type EnergiaGerada = {
     codigo: number;
     quantidade: number;
     tipoFonte: string;
-    dataGeracao: number;
+    dataGeracao: string;
 }
 
 export type Feedback = {
     codigo: number;
     comentario: string;
     nota: number;
-    dataFeedback: number;
+    dataFeedback: string;
 }
 
 export type Fonte = {
