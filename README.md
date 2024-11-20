@@ -9,7 +9,7 @@
 ## Links: Vercel,Java e Video
 - Vercel: https://inovatech-pied.vercel.app/
 - Java: https://github.com/anacarolcg0/gs2
-- Video: 
+- Video: https://youtu.be/HWVX4tUShpI
 
 ## Observações
 - Para o funcionamento do crud da api é necessário o java ligado 
