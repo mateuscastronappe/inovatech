@@ -7,9 +7,12 @@
 <p>Tendo uma interface dinâmica, estilizada de acordo com o tema para uma boa experiêcia do usuário.</p>
 
 ## Links: Vercel,Java e Video
-- Vercel: https://inovatech-snowy.vercel.app/
+- Vercel: https://inovatech-pied.vercel.app/
 - Java: https://github.com/anacarolcg0/gs2
 - Video: 
+
+## Observações
+- Para o funcionamento do crud da api é necessário o java ligado 
 
 
 ### Tecnologias
