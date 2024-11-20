@@ -28,4 +28,7 @@ body {
     .cabecalho nav ul li {
         font-size: 1.20rem; 
     }
+    .armazenamento-row:hover {
+        @apply bg-gray-50;
+    }
 }
