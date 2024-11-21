@@ -3,7 +3,7 @@
 
 
 ### Sobre o site
-<p>Esse site foi feito com o objetivo de conscientizar os usuários sobre a energia.<p/>
+<p>Esse site foi feito com o objetivo de mostrar sobre cada uma das energias renováveis e suas tecnologias .<p/>
 <p>Tendo uma interface dinâmica, estilizada de acordo com o tema para uma boa experiêcia do usuário.</p>
 
 ## Links: Vercel,Java e Video
@@ -15,7 +15,7 @@
 - Para o funcionamento do crud da api é necessário o java ligado 
 
 
-### Tecnologias
+### Tecnologias & Ferramentas
 <div style="display: inline_block">
 <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
